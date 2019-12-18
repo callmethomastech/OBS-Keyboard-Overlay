@@ -7,4 +7,4 @@ The program works by reading the key that you click and showing you that key by 
 - Global Click Events with (jnativehook)
 
 ## Install
-- [OBS Keyboard Overlay.exe]() v1.0
+- [OBS Keyboard Overlay.exe](https://github.com/ElementCodez/OBS-Keyboard-Overlay/releases/tag/1.0) v1.0
